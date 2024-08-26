@@ -1,8 +1,8 @@
 
 ## Peer Review Template for AIFFEL ##
 
-- coder: 
-- reviewer: 
+- coder: 김지영
+- reviewer: 김민규
 
 **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
 
