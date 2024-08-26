@@ -1,3 +1,4 @@
+ 
 
 ## AIFFEL 9기 프로젝트 파일 ##
 
@@ -46,13 +47,17 @@
 │       └── README.md
 ├── Python
 │   ├── Py01
-│   │   ├── Py01_C.png
-│   │   ├── Quest1.ipynb
+
 │   │   └── README.md
+
 │   ├── Py02
+
 │   │   └── README.md
+
 │   ├── Py03
+
 │   │   └── README.md
+
 │   └── Py04
-│       └── README.md
-└── README.md
+
+        └── README.md
