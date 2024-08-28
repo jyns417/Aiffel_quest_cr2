@@ -35,14 +35,14 @@ def find_min_max(numbers):
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
-    #입력받은 fn 의 이름을 fn_name 으로 문자열로 assign
-    #  print( type(fn_name) )  #제대로 string 으로 출력되는 것 확인함
-    #fn 의 실행횟수를 알려주는 integar 형식의 count 변수, initial 0로 설정
+    입력받은 fn 의 이름을 fn_name 으로 문자열로 assign
+      print( type(fn_name) )  #제대로 string 으로 출력되는 것 확인함
+    fn 의 실행횟수를 알려주는 integar 형식의 count 변수, initial 0로 설정
   이런주석들을 보며 더 잘이해할수있었다
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
-    print( type(fn_name) )  #제대로 string 으로 출력되는 것 확인함
+    print( type(fn_name) )  제대로 string 으로 출력되는 것 확인함
         
 - [ ]  **4. 회고를 잘 작성했나요?**
     
