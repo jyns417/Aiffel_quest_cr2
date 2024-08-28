@@ -1,104 +1,80 @@
- 
-
-## AIFFEL 9기 프로젝트 파일 ##
-
-
-├── Exploration
-
-│   ├── Ex01
-
-│   │   └── README.md
-
-│   ├── Ex02
-
-│   │   └── README.md
-
-│   ├── Ex03
-
-│   │   └── README.md
-
-│   ├── Ex04
-
-│   │   └── README.md
-
-│   ├── Ex05
-
-│   │   └── README.md
-
-│   ├── Ex06
-
-│   │   └── README.md
-
-│   └── Ex07
-
-│       └── README.md
-
-├── Flutter
-
-│   ├── Flu01
-
-│   │   └── README.md
-
-│   ├── Flu02
-
-│   │   └── README.md
-
-│   ├── Flu03
-
-│   │   └── README.md
-
-│   └── Flu04
-
-│       └── README.md
-
-├── MainQuest
-
-│   ├── Quest01
-
-│   │   └── README.md
-
-│   ├── Quest02
-
-│   │   └── README.md
-
-│   ├── Quest03
-
-│   │   └── README.md
-
-│   ├── Quest04
-
-│   │   └── README.md
-
-│   ├── Quest05
-
-│   │   └── README.md
-
-│   ├── Quest06
-
-│   │   └── README.md
-
-│   ├── Quest07
-
-│   │   └── README.md
-
-│   └── Quest08
-
-│       └── README.md
-
-├── Python
-
-│   ├── Py01
-
-│   │   └── README.md
-
-│   ├── Py02
-
-│   │   └── README.md
-
-│   ├── Py03
-
-│   │   └── README.md
-
-│   └── Py04
-
-        └── README.md
+## Aiffel_quest_cr2 ## 
+- 아이펠 과정 중에 만드는 프로젝트를 저장합니다.
+---  
+```bash
+Aiffel_quest_cr2  
+├─ Exploration  
+│   ├─ Ex01  
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   ├─ Ex02  
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   ├─ Ex03  
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   ├─ Ex04 
+│   │   ├─ .ipynb 
+│   │   └─ README.md  
+│   ├─ Ex05  
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   ├─ Ex06
+│   │   ├─ .ipynb  
+│   │   └─ README.md  
+│   └─ Ex07 
+│        ├─ .ipynb 
+│        └─ README.md  
+├─ Flutter  
+│   ├─ Flu01  
+│   │   ├─ Flu01_project
+│   │   └─ README.md  
+│   ├─ Flu02
+│   │   ├─ Flu02_project  
+│   │   └─ README.md  
+│   ├─ Flu03  
+│   │   ├─ Flu03_project  
+│   │   └─ README.md  
+│   └─ Flu04  
+│        ├─ Flu04_project  
+│        └─ README.md  
+├─ MainQuest  
+│   ├─ Quest01  
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   ├─ Quest02  
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   ├─ Quest03  
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   ├─ Quest04  
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   ├─ Quest05  
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   ├─ Quest06  
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   ├─ Quest07 
+│   │   ├─ .ipynb
+│   │   └─ README.md  
+│   └─ Quest08  
+│       ├─ .ipynb
+│       └─ README.md  
+└─ Python  
+     ├─ Py01  
+     │   ├─ .ipynb
+     │   └─ README.md  
+     ├─ Py02  
+     │   ├─ .ipynb
+     │   └─ README.md  
+     ├─ Py03  
+     │   ├─ .ipynb
+     │   └─ README.md  
+     └─ Py04  
+          ├─ .ipynb
+          └─ README.md  
+```
+27 directories, 29 files
