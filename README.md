@@ -2,21 +2,33 @@
 
 ## AIFFEL 9기 프로젝트 파일 ##
 
-~/aiffel/project2
-.
+
 ├── Exploration
+
 │   ├── Ex01
+
 │   │   └── README.md
+
 │   ├── Ex02
+
 │   │   └── README.md
+
 │   ├── Ex03
+
 │   │   └── README.md
+
 │   ├── Ex04
+
 │   │   └── README.md
+
 │   ├── Ex05
+
 │   │   └── README.md
+
 │   ├── Ex06
+
 │   │   └── README.md
+
 │   └── Ex07
 │       └── README.md
 ├── Flutter
